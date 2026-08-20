@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" role="img" aria-labelledby="title desc">
+  <title id="title">Edilix</title>
+  <desc id="desc">Simbolo Edilix formato da due elementi strutturali incrociati, oro e grafite.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#b18b5d"/>
+      <stop offset="0.52" stop-color="#b9976c"/>
+      <stop offset="1" stop-color="#b58a58"/>
+    </linearGradient>
+    <linearGradient id="graphite" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#363735"/>
+      <stop offset="0.55" stop-color="#323533"/>
+      <stop offset="1" stop-color="#2d302e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Elemento oro posteriore -->
+  <path fill="url(#gold)" d="M739 196a6 6 0 0 0-6 6v46a6 6 0 0 0 6 6h72c14 0 22 7 22 21v15L291 916v47c0 14-7 21-21 21h-86a6 6 0 0 0-6 6v47a6 6 0 0 0 6 6h331a6 6 0 0 0 6-6v-47a6 6 0 0 0-6-6h-72c-14 0-21-7-21-21v-21l533-613v-54c0-14 7-21 21-21h93a6 6 0 0 0 6-6v-46a6 6 0 0 0-6-6z"/>
+
+  <!-- Elemento grafite anteriore -->
+  <path fill="url(#graphite)" d="M184 196a6 6 0 0 0-6 6v46a6 6 0 0 0 6 6h91c14 0 21 7 21 21v52l537 615v21c0 14-7 21-21 21h-73a6 6 0 0 0-6 6v47a6 6 0 0 0 6 6h330a6 6 0 0 0 6-6v-47a6 6 0 0 0-6-6h-85c-14 0-21-7-21-21v-57L422 290v-15c0-14 7-21 21-21h72a6 6 0 0 0 6-6v-46a6 6 0 0 0-6-6z"/>
+</svg>
