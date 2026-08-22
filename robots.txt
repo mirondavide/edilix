@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mirondavide.github.io/edilix/sitemap.xml
+Sitemap: https://mirondavide.com/edilix/sitemap.xml
